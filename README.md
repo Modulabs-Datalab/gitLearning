@@ -1,2 +1,2 @@
 # gitLearning
-gitLearning Yo!
+gitLearning Yo! syo
